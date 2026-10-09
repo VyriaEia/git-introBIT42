@@ -1,3 +1,3 @@
-Jan Rhodes is on his way to passing the Cisco DEVASC exam
+Jan Rhodes is on his way to passing the Devnet DEVASC exam
 Jan Rhodes is beginning to understand Git!
 The line Jan Rhodes is awesome was added originally while in the feature branch
